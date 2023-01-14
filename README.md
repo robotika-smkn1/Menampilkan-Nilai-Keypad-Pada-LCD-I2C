@@ -46,7 +46,7 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 </p>
 
 
-# :inbox_tray: Download Libary [Keypad](https://drive.google.com/file/d/14xg9-oXQWmTRA8yiubSbi87VducOoMR3/view?usp=share_link) | [LiquidCrisytal](https://drive.google.com/file/d/1YzpUIIJutlFDJ5cT3waucD8pmBouyKuD/view?usp=share_link)
+# :inbox_tray: Download Libary [Keypad](https://drive.google.com/file/d/14xg9-oXQWmTRA8yiubSbi87VducOoMR3/view?usp=share_link) | [LiquidCrisytal](https://drive.google.com/file/d/1__jesSJj6Ys0w4yy6LwjO2kineDm8PtT/view?usp=share_link)
 
 # :newspaper: Keterangan
 - Pin 1 dari kanan (keypad) -> Pin D3 Arduino
